@@ -1,5 +1,5 @@
 # Summer_2020_DTU_Internship
-This is the repository for projects done during the Summer Research Intern at Delhi Technological University in 2020.
+This is the repository for projects done during the Summer Research Intern at Delhi Technological University in 2020 under the guidance of Prof Rajesh Rohilla.
 
 The project report for this internship with details for both projects is in [this file](https://github.com/Aditya-Agrawal-8730/Summer_2020_DTU_Internship/blob/main/EC-403%20Training%20Diary%202K17-EC-008.pdf).
 
